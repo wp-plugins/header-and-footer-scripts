@@ -3,10 +3,10 @@
 Contributors: BlogSynthesis
 Tags: head, header, footer, scripts, post, admin
 Requires at least: 3.4.1
-Tested up to: 3.6
-Stable tag: 1.1.0
+Tested up to: 3.8.1
+Stable tag: 1.3.1
 License: GPLv2 or later
-Donate link: http://www.blogsynthesis.com/#Donate
+Donate link: http://www.blogsynthesis.com/#donate
 
 Header and Footer Scripts plugin enables you to add scripts to WordPress header and footer.
 
